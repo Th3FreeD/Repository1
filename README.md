@@ -2,7 +2,7 @@
 
 ## INSTALL
 
-''''' php
+'''''php
 composer install
 '''''
 
